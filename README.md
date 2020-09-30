@@ -1,4 +1,5 @@
-# React.js: RESTAURANT_CLIENT
+# WORK IN PROGRESS
+## React.js: RESTAURANT_CLIENT
 `project made of 2 parts. This is part 1. part 2 -> https://github.com/willyrabbits/RNRestaurantApp`
 
 ### Project where the restaurant staff can manage their available dishes, add new ones and edit them.
