@@ -12,7 +12,7 @@ const Menu = () => {
 
     useEffect(() => {
         const getDishes = () => {
-            //get() no tienes los beneficios del REAL TIME DATABASE, por eso usamos .snapshot
+            //get() no tienes los beneficios del REAL TIME DATABASE, por eso usamos .onSnapshot
             firebase.db.collection('productos').onSnapshot(handleSnapshot)
         }
         getDishes()
